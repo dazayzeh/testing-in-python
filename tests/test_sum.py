@@ -1,9 +1,13 @@
 from src import my_sum
+import pytest
 
 
-def test_list_sum():
-    assert my_sum([1, 2, 3]) == 6, "should be 6"
+@pytest.fixture
+def get_test_data():
+    return [([3, 4, 5, 6], 18), ((1, 2, 3), 6)]
 
 
-def test_sum_tuple():
-    assert sum((1, 2, 2)) == 5, "Should be 6"
+def test_list_sum(get_test_data):
+    for data in get_test_data:
+        assert my_sum(data[0]) == data[1]
+
