@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40cfb33c-a573-4eb1-8bb2-c42c1dd0190b" name="Default Changelist" comment="" />
+    <list default="true" id="40cfb33c-a573-4eb1-8bb2-c42c1dd0190b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/unittests/test_my_sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -20,6 +31,46 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="testing-in-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_sum" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_sum/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.__init__" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -31,7 +82,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596190837979</updated>
-      <workItem from="1596190841434" duration="589000" />
+      <workItem from="1596190841434" duration="1184000" />
+      <workItem from="1596192420382" duration="974000" />
+      <workItem from="1596198756489" duration="983000" />
+      <workItem from="1596200103251" duration="781000" />
     </task>
     <servers />
   </component>
@@ -43,9 +97,50 @@
       <screen x="0" y="23" width="1792" height="1028" />
     </state>
     <state x="612" y="347" key="#com.intellij.fileTypes.FileTypeChooser/-128.-1177.1920.1177/0.23.1792.1028@0.23.1792.1028" timestamp="1596191355864" />
-    <state x="573" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1596190841966">
+    <state width="1750" height="345" key="GridCell.Tab.0.bottom" timestamp="1596192436031">
       <screen x="0" y="23" width="1792" height="1028" />
     </state>
-    <state x="573" y="369" key="com.intellij.ide.util.TipDialog/-128.-1177.1920.1177/0.23.1792.1028@0.23.1792.1028" timestamp="1596190841966" />
+    <state width="1750" height="345" key="GridCell.Tab.0.bottom/-128.-1177.1920.1177/0.23.1792.1028@0.23.1792.1028" timestamp="1596192436031" />
+    <state width="1750" height="345" key="GridCell.Tab.0.center" timestamp="1596192436029">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state width="1750" height="345" key="GridCell.Tab.0.center/-128.-1177.1920.1177/0.23.1792.1028@0.23.1792.1028" timestamp="1596192436029" />
+    <state width="1750" height="345" key="GridCell.Tab.0.left" timestamp="1596192436029">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state width="1750" height="345" key="GridCell.Tab.0.left/-128.-1177.1920.1177/0.23.1792.1028@0.23.1792.1028" timestamp="1596192436029" />
+    <state width="1750" height="345" key="GridCell.Tab.0.right" timestamp="1596192436030">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state width="1750" height="345" key="GridCell.Tab.0.right/-128.-1177.1920.1177/0.23.1792.1028@0.23.1792.1028" timestamp="1596192436030" />
+    <state width="1750" height="345" key="GridCell.Tab.1.bottom" timestamp="1596192436033">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state width="1750" height="345" key="GridCell.Tab.1.bottom/-128.-1177.1920.1177/0.23.1792.1028@0.23.1792.1028" timestamp="1596192436033" />
+    <state width="1750" height="345" key="GridCell.Tab.1.center" timestamp="1596192436032">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state width="1750" height="345" key="GridCell.Tab.1.center/-128.-1177.1920.1177/0.23.1792.1028@0.23.1792.1028" timestamp="1596192436032" />
+    <state width="1750" height="345" key="GridCell.Tab.1.left" timestamp="1596192436031">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state width="1750" height="345" key="GridCell.Tab.1.left/-128.-1177.1920.1177/0.23.1792.1028@0.23.1792.1028" timestamp="1596192436031" />
+    <state width="1750" height="345" key="GridCell.Tab.1.right" timestamp="1596192436032">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state width="1750" height="345" key="GridCell.Tab.1.right/-128.-1177.1920.1177/0.23.1792.1028@0.23.1792.1028" timestamp="1596192436032" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1596199805458">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.23.1792.1030@0.23.1792.1030" timestamp="1596199805458" />
+    <state x="573" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1596200111379">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state x="573" y="369" key="com.intellij.ide.util.TipDialog/-128.-1177.1920.1177/0.23.1792.1028@0.23.1792.1028" timestamp="1596192431686" />
+    <state x="573" y="369" key="com.intellij.ide.util.TipDialog/-128.-1177.1920.1177/0.23.1792.1030@0.23.1792.1030" timestamp="1596200111379" />
+    <state x="573" y="369" key="com.intellij.ide.util.TipDialog/0.23.1792.1030@0.23.1792.1030" timestamp="1596198817802" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/testing_in_python$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1596192436011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_sum" />
   </component>
 </project>
