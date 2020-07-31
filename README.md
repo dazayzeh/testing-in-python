@@ -13,3 +13,4 @@ ot `black <filename>` for one file
 
 ## running the tests
 run `python -m pytest`
+or `pytest <filename> -v`
